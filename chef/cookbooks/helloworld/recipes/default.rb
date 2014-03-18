@@ -1,4 +1,3 @@
-
 file "/tmp/helloworld.txt" do
   owner "aoterra"
   group "aoterra"
