@@ -1,7 +1,7 @@
 
 file "/tmp/helloworld.txt" do
-  owner "ubuntu"
-  group "ubuntu"
+  owner "aoterra"
+  group "aoterra"
   mode 00544
   action :create
   content "Hello, Implementor!"
