@@ -1,4 +1,7 @@
 
 {
-  "run_list": [ "recipe[helloworld]" ]
+  "run_list": [ 
+	"recipe[helloworld]" ,
+ 	"recipe[vagrant_1.4.2]" 
+	  ]
 }
